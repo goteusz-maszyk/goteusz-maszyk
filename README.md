@@ -6,6 +6,6 @@
 
 My stats to flex
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=goteusz-maszyk&theme=dark&hide_border=true&background=-32%2C0D1466%2C040215&fire=EB5454)
+[![GitHub Streak](https://streak-stats.demolab.com?user=goteusz-maszyk&theme=dark&hide_border=true&fire=EB5454&background=-32%2C0D1466%2C040215)](https://streak-stats.demolab.com?user=goteusz-maszyk&theme=dark&hide_border=true&fire=EB5454&background=-32%2C0D1466%2C040215)
 
 ![img](https://github-readme-stats.vercel.app/api?username=goteusz-maszyk&show_icons=true&theme=tokyonight&hide_border=true)
