@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on GuildsCore - a custom plugin for PaperMC servers!
+- 🔭 I’m currently working on CrabCraft - a custom engine written in rust for minecraft servers
 - 🌱 I’m currently learning Java, along with Spigot API
 - ⚡ Fun fact: You are really reading this lmao
 
