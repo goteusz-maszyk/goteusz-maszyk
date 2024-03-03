@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on CrabCraft - a custom engine written in rust for minecraft servers
-- 🌱 I’m currently learning Java, along with Spigot API
+- 🌱 I’m currently learning Rust 🦀
 - ⚡ Fun fact: You are really reading this lmao
 
 My stats to flex
